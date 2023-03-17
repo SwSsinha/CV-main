@@ -1,0 +1,11 @@
+.first{
+    background-color: red;
+    position: relative;
+    left: 40px;
+}
+.mid{
+    background-color: blue;
+}
+.last{
+    background-color: yellow;
+}
